@@ -8,7 +8,9 @@ Script detects external IP of your server automatically. Port is assigned random
 Example usage
 
 ./share-file.sh test.txt
+
  Share URL is : http://95.85.53.174:32799/test.txt
+ 
  Container will be killed in 148
 
  
